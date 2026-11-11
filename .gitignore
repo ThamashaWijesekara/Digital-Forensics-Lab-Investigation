@@ -1,0 +1,17 @@
+﻿# Ignore Large Forensic Disk Images & Virtual Disks
+*.E01
+*.ad1
+*.raw
+*.dd
+*.vhdx
+*.vhd
+
+# Ignore Autopsy Temporary & Local DB Files
+05-Autopsy-Cases/*/
+05-Autopsy-Cases/**
+!05-Autopsy-Cases/.gitkeep
+
+# System Files
+Thumbs.db
+.DS_Store
+desktop.ini

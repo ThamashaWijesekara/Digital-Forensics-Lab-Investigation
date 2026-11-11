@@ -1,0 +1,4 @@
+﻿Source Name,Extension,MIME Type,Status,Justification
+disguised_text.pdf,pdf,text/plain,Likely Notable,File has MIME type of text/plain
+suspicious_document.jpg,jpg,application/pdf,Likely Notable,File has MIME type of application/pdf (Length 53)
+disguised_image.txt,txt,image/png,Likely Notable,File has MIME type of image/png

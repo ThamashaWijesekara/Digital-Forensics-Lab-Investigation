@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: DF-2026-001
+Evidence Number: EVD-002
+Unique description: Simulated Deleted Evidence Disk (R Drive - VHDX)
+Examiner: Thamasha
+Notes: Volume containing deleted project_backup.zip file for forensic recovery test.
+
+--------------------------------------------------------------
+
+Information for D:\Digital-Forensics-Lab\03-Forensic-Images\virtual_disk_R_image:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 1,046,400
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 510 MB
+ Sector count:    1046400
+[Computed Hashes]
+ MD5 checksum:    4b1b6d55c3674dd9bc4b508a6af33a41
+ SHA1 checksum:   2b21a2f9e8a404eff175bd8c4999f4094ee2bafb
+
+Image Information:
+ Acquisition started:   Wed Nov 11 10:56:59 2026
+ Acquisition finished:  Wed Nov 11 10:57:00 2026
+ Segment list:
+  D:\Digital-Forensics-Lab\03-Forensic-Images\virtual_disk_R_image.E01
+
+Image Verification Results:
+ Verification started:  Wed Nov 11 10:57:00 2026
+ Verification finished: Wed Nov 11 10:57:01 2026
+ MD5 checksum:    4b1b6d55c3674dd9bc4b508a6af33a41 : verified
+ SHA1 checksum:   2b21a2f9e8a404eff175bd8c4999f4094ee2bafb : verified

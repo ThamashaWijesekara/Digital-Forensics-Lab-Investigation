@@ -1,0 +1,7 @@
+create vdisk file="D:\Digital-Forensics-Lab\Simulated-Evidence.vhdx" maximum=512 type=expandable
+select vdisk file="D:\Digital-Forensics-Lab\Simulated-Evidence.vhdx"
+attach vdisk
+create partition primary
+format fs=ntfs quick label="DF_SIM"
+assign letter=R
+exit

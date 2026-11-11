@@ -1,0 +1,11 @@
+Downloaded troubleshooting notes
+
+Issue: Shared folder access failure
+Date: 2026-10-29
+
+Possible causes:
+- Incorrect permissions
+- Network connectivity issue
+- Account lockout
+
+These notes are synthetic lab evidence.

@@ -1,0 +1,11 @@
+SIMULATED USER ACTIVITY LOG
+Case ID: DF-2026-001
+Workstation: WS-EMP-014
+Username: employee01
+
+[2026-11-11 09:25:40] User login successful.
+[2026-11-11 09:30:40] Confidential-Incident-Report.txt accessed.
+[2026-11-11 09:35:40] backup_credentials.txt accessed.
+[2026-11-11 09:40:40] Attempt to delete project_backup.zip recorded.
+
+NOTE: This is a fictional activity log created for the forensic lab.

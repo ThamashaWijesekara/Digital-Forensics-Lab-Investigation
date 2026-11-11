@@ -1,0 +1,5 @@
+EmployeeID,Name,Department,AccessLevel
+EMP001,Alex Perera,IT,Admin
+EMP002,Sam Fernando,Finance,Standard
+EMP003,Jordan Silva,HR,Standard
+EMP004,Taylor Jay,IT,Standard

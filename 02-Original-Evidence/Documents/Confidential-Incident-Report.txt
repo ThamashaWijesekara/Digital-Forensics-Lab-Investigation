@@ -1,0 +1,21 @@
+NORTHSTAR SOLUTIONS
+CONFIDENTIAL INCIDENT REPORT
+
+Reference: INC-2026-104
+Date: 2026-10-28
+Classification: CONFIDENTIAL
+
+Subject: Suspicious access to internal documents
+
+Summary:
+The IT department received a notification about unusual access
+to a shared company folder.
+
+Observations:
+- Several documents were accessed outside normal working hours.
+- Some filenames appeared to have unexpected extensions.
+- One internal report was reported missing.
+
+Status: Under Investigation
+
+This is fictional evidence created for educational purposes.

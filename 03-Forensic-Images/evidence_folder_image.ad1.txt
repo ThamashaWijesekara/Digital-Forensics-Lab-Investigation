@@ -1,0 +1,28 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: DF-2026-001
+Evidence Number: EVD-001
+Unique Description: Simulated Evidence Folder
+Examiner: Thamasha
+Notes: 
+
+--------------------------------------------------------------
+
+Information for D:\Digital-Forensics-Lab\03-Forensic-Images\evidence_folder_image.ad1:
+[Computed Hashes]
+ MD5 checksum:    08ba274ad16552235e51659a926e01e7
+ SHA1 checksum:   467f0a78a40e4afcf5be0cda3f8faa2d375dc3c9
+
+Image information:
+ Acquisition started:   Wed Nov 11 10:49:12 2026
+ Acquisition finished:  Wed Nov 11 10:49:12 2026
+ Segment list:
+  D:\Digital-Forensics-Lab\03-Forensic-Images\evidence_folder_image.ad1
+
+Image Verification Results:
+ Verification started:  Wed Nov 11 10:49:12 2026
+ Verification finished: Wed Nov 11 10:49:12 2026
+ MD5 checksum:    08ba274ad16552235e51659a926e01e7 : verified
+ SHA1 checksum:   467f0a78a40e4afcf5be0cda3f8faa2d375dc3c9 : verified

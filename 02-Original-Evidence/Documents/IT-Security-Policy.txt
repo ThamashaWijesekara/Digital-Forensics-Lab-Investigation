@@ -1,0 +1,13 @@
+NORTHSTAR SOLUTIONS
+INTERNAL IT SECURITY POLICY
+
+Document ID: NS-IT-2026-014
+Classification: Internal
+Date: 2026-10-15
+
+1. Employees must use strong passwords.
+2. Multi-factor authentication must be enabled.
+3. Company documents must not be shared with unauthorized persons.
+4. Suspicious activity must be reported to the IT department.
+
+This document is created for a simulated forensic investigation.
